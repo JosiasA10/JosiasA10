@@ -11,6 +11,13 @@ It is intended for students who are just starting to program and want to strengt
 ## Requirements 
 - Have Node.js installed to run the programs.
 
+## How to run the files
+1. Clone this repository:
+`git clone <repository URL>`
+2. Navigate to the file's directory:
+`cd <directory>`
+3. Run the file with Node.js:
+`node sum.js`
 
 <!---
 JosiasA10/JosiasA10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
